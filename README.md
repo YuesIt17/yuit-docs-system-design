@@ -15,7 +15,7 @@ There is the good tutorial about System Design in [here](https://www.geeksforgee
 ## Let's try to create a system design for the **Frontend Services** in [📖this artice](https://dev.to/yuit_solutions/yuit-docsfrontend-system-design-od4)
 
 ### Component diagram for authorization via Gogatekeeper + Keycloak
-![sd_frontend_gogatekeeper](frontend\sd_frontend_gogatekeeper.png)
+![sd_frontend_gogatekeeper](https://raw.githubusercontent.com/YuesIt17/yuit-docs-system-design/refs/heads/main/frontend/sd_frontend_gogatekeeper.png)
 
 ### Component diagram for authorization via Keycloak.js
-![sd_frontend_keycloak_js](frontend\sd_frontend_keycloak_js.png)
+![sd_frontend_keycloak_js](https://raw.githubusercontent.com/YuesIt17/yuit-docs-system-design/refs/heads/main/frontend/sd_frontend_keycloak_js.png)
