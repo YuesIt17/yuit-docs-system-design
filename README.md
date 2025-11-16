@@ -9,7 +9,7 @@ There is the good tutorial about System Design in [here](https://www.geeksforgee
 
 ## Let's try to create a system design for the **Backend Services** in [📖this artice](https://dev.to/yuit_solutions/system-design-courses-in-practice-for-beginners-334g)
 
-![sd_backend](backend\sd_backend.png)
+![sd_backend](https://raw.githubusercontent.com/YuesIt17/yuit-docs-system-design/refs/heads/main/backend/sd_backend.png)
 
 
 ## Let's try to create a system design for the **Frontend Services** in [📖this artice](https://dev.to/yuit_solutions/yuit-docsfrontend-system-design-od4)
